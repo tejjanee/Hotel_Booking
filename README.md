@@ -17,15 +17,7 @@ Welcome to our Hotel Booking Web Application! This application allows users to s
 - Authentication: JSON Web Tokens (JWT)
 
 
- Getting Started
 
-To run the application locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/hotel-booking-app.git`
-2. Navigate to the project directory: `cd hotel-booking-app`
-3. Install dependencies: `npm install`
-4. Start the server: `npm start`
-5. Open your web browser and visit `http://localhost:3000`
 
 
 
