@@ -1,16 +1,34 @@
-It is a web-based application that calculates the maximum profit a person can make in the stock market, given the stock prices of N days and a positive integer K representing the number of transactions allowed.
-#Technologies Used
+ Hotel Booking Web Application
 
-- HTML
-- CSS
-- JavaScript
+Welcome to our Hotel Booking Web Application! This application allows users to search for hotels based on location, dates, and preferences, and book their stay with ease.
 
-#How to Use
-The application will prompt you to enter the number of test cases.
+ Features
 
-For each test case, you'll be asked to input the following:
+- User Authentication**: Secure authentication system allowing users to create accounts, log in, and manage their bookings.
+- Hotel Search**: Search for hotels by location, dates, and other preferences.
+- Booking Management**: Users can view and manage their bookings, including modifying or canceling reservations.
+- Responsive Design**: A responsive and intuitive user interface accessible across desktop and mobile devices.
 
--The number of transactions allowed (K).
--The number of days for which stock prices are available (N).
--N stock prices separated by spaces.
--After entering the data for each test case, the maximum profit for that case will be displayed on the page.
+ Technologies Used
+
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JSON Web Tokens (JWT)
+
+
+ Getting Started
+
+To run the application locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/hotel-booking-app.git`
+2. Navigate to the project directory: `cd hotel-booking-app`
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
+5. Open your web browser and visit `http://localhost:3000`
+
+
+
+
+
+
