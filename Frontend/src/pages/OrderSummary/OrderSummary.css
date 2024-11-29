@@ -1,0 +1,42 @@
+.order-summary-main {
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  /* Default styles */
+  .order-summary-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Media Queries */
+  
+  /* Small screens (phones, 576px and up) */
+  @media (max-width: 576px) {
+    .order-summary-main {
+      padding: 10px;
+    }
+  }
+  
+  /* Medium screens (tablets, 768px and up) */
+  @media (min-width: 768px) {
+    .order-summary-main {
+      padding: 20px;
+    }
+  }
+  
+  /* Large screens (desktops, 992px and up) */
+  @media (min-width: 992px) {
+    .order-summary-main {
+      padding: 40px;
+    }
+  }
+  
+  /* Extra large screens (1200px and up) */
+  @media (min-width: 1200px) {
+    .order-summary-main {
+      padding: 60px;
+    }
+  }
+  
